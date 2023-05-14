@@ -8,12 +8,19 @@
 
 Этот блокнот рассчитан на работу в Google Colab, чтобы использовать вычислительные мощности облака, а не вашего компьютера. Если вы всё ещё не там, необходимо сделать следующее:
 
+Вариант 1: 
+
+1. Перейти по ссылке https://colab.research.google.com/github/Sertyhopss/midas-notebook/blob/master/MiDaS.ipynb
+2. Вы прекрасны!
+
+Вариант 2:
+
 1. Перейти по ссылке https://colab.research.google.com/
 2. Выбрать пункт "GitHub"
 3. Вставить туда ссылку на этот блокнот (на текущий момент это https://github.com/Sertyhopss/midas-notebook/blob/master/MiDaS.ipynb)
 4. Выбрать файл MiDaS.ipynb
 
-или, если файл хранится у вас локально:
+Вариант 3, если файл хранится у вас локально:
 
 1. Перейти по ссылке https://colab.research.google.com/
 2. Выбрать пункт "Загрузить"
